@@ -14,7 +14,7 @@ const Navbar = () => {
     return (
             <Header>
                 <Logo>
-                    <StyledLink to ="/">YONGCHA</StyledLink>
+                    <StyledLink to ="/">JamFlix</StyledLink>
                 </Logo>
                 {online === 'online' 
                 ? <NavLinks>
